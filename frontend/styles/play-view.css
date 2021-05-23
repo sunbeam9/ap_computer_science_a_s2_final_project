@@ -1,0 +1,13 @@
+#guessesList {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#guessesList li {
+    display: inline;
+    padding-left: 10px;
+}
+
+div {
+    margin: 10px;
+}
